@@ -1,2 +1,5 @@
-# Tooclahins_aarch64
-stock aarch64_4.8 / stock aarch64_4.9
+# Toolchains_aarch64
+
+#Stock aarch64 Toolchains from Google Repo
+- aarch64-linux-android-4.8
+- aarch64-linux-android-4.9
